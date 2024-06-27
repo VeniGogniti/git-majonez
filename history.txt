@@ -1,3 +1,6 @@
+ 1508  mkdir git-majonez
+ 1509  cd git-majonez
+ 1510  git init
  1511  touch main.cpp
  1512  git status
  1513  git add main.cpp
@@ -44,22 +47,6 @@
  1554  git checkout master
  1555  git status
  1556  git log
- 1557  cd Programs/betterbird
- 1558  ./betterbird
- 1559  setxkbmap pl
- 1560  discord
- 1561  ls
- 1562  cd --
- 1563  cd Do
- 1564  cd Downloads
- 1565  ls
- 1566  chmod +x discord-0.0.58.deb
- 1567  sudo dpkg -i discord-0.0.58.deb
- 1568  discord
- 1569  vivaldi $
- 1570  cd git-majonez
- 1571  ls
- 1572  git log
  1573  git branch
  1574  git checkout cs
  1575  git log
