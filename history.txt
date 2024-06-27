@@ -1,0 +1,103 @@
+ 1511  touch main.cpp
+ 1512  git status
+ 1513  git add main.cpp
+ 1514  git status
+ 1515  git commit -m "Initial Commit"
+ 1516  git status
+ 1517  vim main.cpp
+ 1518  git commit -m "Farewell changed"
+ 1519  git add main.cpp
+ 1520  git commit -m "Farewell changed"
+ 1521  git remote add origin https://github.com/VeniGogniti/git-majonez.git
+ 1522  git push -u origin master
+ 1523  branch cs
+ 1524  git branch cs
+ 1525  git status
+ 1526  git branch
+ 1527  git branch cs
+ 1528  git checkout cs
+ 1529  git status
+ 1530  git branch
+ 1531  git log
+ 1532  git checkout master
+ 1533  git log
+ 1534  git checkout master
+ 1535  git checkout cs
+ 1536  git lo
+ 1537  git log
+ 1538  git status
+ 1539  git show
+ 1540  git branch
+ 1541  git HEAD show
+ 1542  git show HEAD
+ 1543  git log
+ 1544  git status
+ 1545  git reset HEAD^
+ 1546  git status
+ 1547  git los
+ 1548  git log
+ 1549  git status
+ 1550  git log
+ 1551  git restore main.cpp
+ 1552  git log
+ 1553  git status
+ 1554  git checkout master
+ 1555  git status
+ 1556  git log
+ 1557  cd Programs/betterbird
+ 1558  ./betterbird
+ 1559  setxkbmap pl
+ 1560  discord
+ 1561  ls
+ 1562  cd --
+ 1563  cd Do
+ 1564  cd Downloads
+ 1565  ls
+ 1566  chmod +x discord-0.0.58.deb
+ 1567  sudo dpkg -i discord-0.0.58.deb
+ 1568  discord
+ 1569  vivaldi $
+ 1570  cd git-majonez
+ 1571  ls
+ 1572  git log
+ 1573  git branch
+ 1574  git checkout cs
+ 1575  git log
+ 1576  vim main.cpp
+ 1577  git branch master
+ 1578  git checkout master
+ 1579  vim main.cpp
+ 1580  git checkout cs
+ 1581  vim main.cpp
+ 1582  git add main.cpp
+ 1583  git commit -m "Greetings"
+ 1584  git push origin cs
+ 1585  git checkout master
+ 1586  git status
+ 1587  git log
+ 1588  git branch
+ 1589  git merge cs
+ 1590  git status
+ 1591  vim main.cpp
+ 1592  git merge cs
+ 1593  git branch
+ 1594  git cs
+ 1595  git checkout cs
+ 1596  git branch
+ 1597  vim main.cpp
+ 1598  git merge cs
+ 1599  git status
+ 1600  git add main.cpp
+ 1601  git status
+ 1602  git merge cs
+ 1603  git commit -m "Merge branch 'cs'"
+ 1604  git status
+ 1605  git merge cs
+ 1606  git status
+ 1607  git log
+ 1608  git branch
+ 1609  git history
+ 1610  history
+ 1611  history | tail -n 100 > history.txt
+ 1612  ls
+ 1613  cat history.txt
